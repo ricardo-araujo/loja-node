@@ -1,0 +1,15 @@
+{
+  "name": "loja-node",
+  "version": "1.0.0",
+  "description": "Estudos implementando uma loja virtual",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ricardo Araujo",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
