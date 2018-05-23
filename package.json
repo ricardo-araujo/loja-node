@@ -1,16 +1,18 @@
 {
   "name": "loja-node",
   "version": "1.0.0",
-  "description": "Estudos implementando uma loja virtual",
+  "description": "projeto de uma loja virtual em nodejs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ricardo Araujo",
-  "license": "ISC",
   "dependencies": {
-    "ejs": "^2.6.1",
-    "express": "^4.16.3",
-    "mysql": "^2.15.0"
+    "body-parser": "^1.18.3",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "express-load": "^1.1.15",
+    "express-validator": "^5.2.0",
+    "mysql": "^2.13.0"
   }
 }
